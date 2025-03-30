@@ -4,8 +4,17 @@
 **Autor:** Tifany Severo  
 **Curso:** Residência Tecnológica em Sistemas Embarcados  
 **Instituição:** EmbarcaTech - HBr  
+Brasília, 2025
 
 ---
+
+## Sobre este repositório
+
+Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas Embarcados, durante a etapa de residência.  
+Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e recursos visuais.
+
+---
+
 
 ## 📂 Lista de Projetos
 
@@ -19,14 +28,15 @@
 
 ## 📝 Diário de Bordo  
 
-Aqui, você pode documentar aprendizados e desafios semanais.  
+Ao longo do curso, esta seção será atualizada com os principais aprendizados, desafios enfrentados e soluções encontradas. Esta prática ajuda a documentar a jornada de desenvolvimento e facilita a revisão futura.  
 
 ### Semana 1  
-- Configuração do ambiente de desenvolvimento e GitHub.  
+- Aprendizado de boas práticas e funcionamento do GitHub. 
+- Configuração do ambiente de desenvolvimento e GitHub. 
 - Estruturação do repositório e primeiros commits.  
 
 ### Semana 2  
-- Desenvolvimento do primeiro projeto com microcontrolador.  
+-   
 
 ---
 
