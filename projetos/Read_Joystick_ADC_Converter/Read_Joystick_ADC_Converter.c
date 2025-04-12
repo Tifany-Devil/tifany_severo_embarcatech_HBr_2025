@@ -71,9 +71,9 @@ int main() {
         
         int button_state = gpio_get(SW);
         
-        printf("X: %d, Y: %d, Button: %s\n", x_value, y_value, button_state == 0 ? "Pressionado" : "Solto");
+        printf("X: %d, Y: %d, Button: %s\n", y_value, x_value, button_state == 0 ? "Pressionado" : "Solto");
         char buf[16];
-        snprintf(buf, sizeof(buf), "X: %d, Y: %d, Button: %s\n", x_value, y_value, button_state == 0 ? "Pressionado" : "Solto");
+        snprintf(buf, sizeof(buf), "X: %d, Y: %d, Button: %s\n", y_value, x_value, button_state == 0 ? "Pressionado" : "Solto");
         memset(ssd, 0, sizeof(ssd));
         draw_centered_string(ssd, 24, buf);
         update_display();
