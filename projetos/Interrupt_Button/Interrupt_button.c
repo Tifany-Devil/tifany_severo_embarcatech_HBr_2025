@@ -114,7 +114,7 @@ int main() {
 
             contador--;
 
-            if (contador < 0) {
+            if (contador <= 0) {
                 contando = false;
                 contador = 0;
                 printf("Contagem finalizada. Cliques B: %d\n", cliques_botao_b);
